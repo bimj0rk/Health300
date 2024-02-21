@@ -7,3 +7,5 @@ This application is suited for those who suffered, are currently suffering or ar
 In addition, the app also has two more features:
   * a daily caloric intake calculator that uses information about the user (such as height, gender, level of activity) to calculate how much a person should eat in one day
   * a health quiz that can be taken by more than one person and also has a leaderboard
+
+The CSS on this application uses the Bootstrap framework
